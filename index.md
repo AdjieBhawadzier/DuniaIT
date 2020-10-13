@@ -1,7 +1,9 @@
 
-# Metode Keamanan Jaringan
+#  Metode Keamanan Jaringan
 
 ## Enkripsi Untuk Keamanan Data Pada Jaringan
+
+Salah satu hal yang penting dalam komunikasi menggunakan computer untuk menjamin kerahasian data adalah enkripsi. Enkripsi dalah sebuah proses yang melakukan perubahan sebuah kode dari yang bisa dimengerti menjadi sebuah kode yang tidak bisa dimengerti (tidak terbaca). Enkripsi dapat diartikan sebagai kode atau chiper. Sebuah sistem pengkodean menggunakan suatu table atau kamus yang telah didefinisikan untuk mengganti kata dari informasi atau yang merupakan bagian dari informasi yang dikirim. Sebuah chiper menggunakan suatu algoritma yang dapat mengkodekan semua aliran data (stream) bit dari sebuah pesan menjadi cryptogram yang tidak dimengerti (unitelligible). Karena teknik cipher merupakan suatu sistem yang telah siap untuk di automasi, maka teknik ini digunakan dalam sistem keamanan komputer dan network. Pada bagian selanjutnya kita akan membahas berbagai macam teknik enkripsi yang biasa digunakan dalam sistem sekuriti dari sistem komputer dan network.
 
 
 
